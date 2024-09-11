@@ -1,3 +1,3 @@
-print('Our First Program:')
-print('Print "Hello, World!" to the standard output:')
-print(f'Here we go!...\n'n'Hello, World!')
+print('Our First Program:\n')
+print('Print "Hello, World!" to the standard output:\n')
+print('Here we go!...\n\nHello, World!\n')
